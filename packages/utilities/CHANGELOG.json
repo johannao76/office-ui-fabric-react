@@ -2,6 +2,20 @@
   "name": "@uifabric/utilities",
   "entries": [
     {
+      "version": "1.1.1",
+      "tag": "@uifabric/utilities_v1.1.1",
+      "date": "Fri, 10 Mar 2017 20:06:58 GMT",
+      "comments": {
+        "patch": [
+          {
+            "author": "David Zearing <dzearing@microsoft.com>",
+            "commit": "c25807f04dd40648e46a7b8b7724f78a805cac05",
+            "comment": "Adjusting React peer dependency to i"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.1.0",
       "tag": "@uifabric/utilities_v1.1.0",
       "date": "Wed, 01 Mar 2017 20:31:22 GMT",
